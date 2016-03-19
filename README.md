@@ -3,7 +3,7 @@ An example of the Markov chain Monte Carlo method
 
 ***
 
-This is a python example of using the Markov chain Monte Carlo (MCMC) method to solve the travelling salesman problem. I learned MCMC in Stanford's CS 168 (taught by Profs. Greg Valiant and Tim Roughgarden.) 
+This is a python example of using the Markov chain Monte Carlo (MCMC) method to solve the travelling salesman problem.
 
 ## Files
 
